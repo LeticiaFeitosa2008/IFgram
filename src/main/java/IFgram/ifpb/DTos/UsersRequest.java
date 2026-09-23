@@ -17,4 +17,3 @@ public record UsersRequest(
         String senha
 
 ) { }
- public record Userre
